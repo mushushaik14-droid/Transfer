@@ -45,21 +45,8 @@ BTech-Student-Transfer-Certificate/
 
 ---
 
-## 6. Screenshots
 
-### Header & Student Details
-
-![Header & Student Details]("pr2.1.png")
-![alt text](pr2.1.png)
----
-
-### Academic Details, Fee Details & Signature
-
-![Academic Details, Fee Details & Signature]("pr2.2.png")
-
----
-
-## 7. Learning Outcomes
+## 6. Learning Outcomes
 
 After completing this project, I learned:
 
